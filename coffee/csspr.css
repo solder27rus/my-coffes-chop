@@ -1,0 +1,18 @@
+.profil{
+    width: 700px;
+    height: auto;
+    display: flex;
+}
+.avatar{
+    background-color: rgb(28, 24, 20);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+.profilimg{
+    width: 80px;
+    height: 80px;
+    display: flex;
+}
